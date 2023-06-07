@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="D:\Lazarus\fpc\3.2.0\bin\x86_64-win64\fpc.exe" Date="1357350767"/>
+  <Params Value=" -MObjFPC -Scghi -CX -O3 -XX -WG -l -vewnhibq -FiC:\Users\User\Desktop\Calculator\lib\x86_64-win64 -FuD:\Lazarus\lcl\units\x86_64-win64\win32 -FuD:\Lazarus\lcl\units\x86_64-win64 -FuD:\Lazarus\components\lazutils\lib\x86_64-win64 -FuD:\Lazarus\packager\units\x86_64-win64 -FuC:\Users\User\Desktop\Calculator\ -FUC:\Users\User\Desktop\Calculator\lib\x86_64-win64\ -FEC:\Users\User\Desktop\Calculator\bin\release\ -oC:\Users\User\Desktop\Calculator\bin\release\test_calculator.exe -dLCL -dLCLwin32 proj_calculator_class.lpr"/>
+</CONFIG>
